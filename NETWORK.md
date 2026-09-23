@@ -1,11 +1,16 @@
-# 🔗 Zion App Network
+# 🌐 Part of the Zion App Network
 
-This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Zion AI Site Survey Brief** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full catalog: https://ziontechgroup.com/apps/
-- 📢 Network overview: https://ziontechgroup.com/app-network/
-- 💻 GitHub: https://github.com/Zion-support
-- ✉️ commercial@ziontechgroup.com
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
 
-**Related apps:** [site-survey-planner](https://github.com/Zion-support/site-survey-planner) · [zion-ai-site-survey-planner](https://github.com/Zion-support/zion-ai-site-survey-planner) · [field-safety-brief](https://github.com/Zion-support/field-safety-brief)
+## Related apps
+- [Zion AI Site Survey Planner](https://github.com/Zion-support/zion-ai-site-survey-planner)
+- [Zion AI Field Dispatch Optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer)
+- [Zion Field Network](https://github.com/Zion-support/zion-field)
+
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
