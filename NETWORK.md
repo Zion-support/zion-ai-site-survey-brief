@@ -1,10 +1,11 @@
-# Zion AI Site Survey Brief
+# 🔗 Zion App Network
 
-AI-generated pre-visit briefs for data-center and site surveys.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-field](https://github.com/Zion-support/zion-field)
-- Related: [zion-ai-site-survey-planner](https://github.com/Zion-support/zion-ai-site-survey-planner) · [site-survey-planner](https://github.com/Zion-support/site-survey-planner) · [zion-ai-field-dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) · [field-safety-brief](https://github.com/Zion-support/field-safety-brief)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [site-survey-planner](https://github.com/Zion-support/site-survey-planner) · [zion-ai-site-survey-planner](https://github.com/Zion-support/zion-ai-site-survey-planner) · [field-safety-brief](https://github.com/Zion-support/field-safety-brief)
