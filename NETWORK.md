@@ -10,7 +10,7 @@ Zion AI Site Survey Brief — AI-generated pre-visit briefs for data-center and 
 - [Zion AI Site Survey Planner](https://github.com/Zion-support/zion-ai-site-survey-planner) — pre-visit checklists and access docs
 - [Site Survey Planner](https://github.com/Zion-support/site-survey-planner) — AI field site survey planning
 - [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — field-engineer dispatch planning
-- [Zion AI Field Dispatch Optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — routing and scheduling
+- [Zion AI RMA Tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — RMA lifecycle management
 - [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — part-number intelligence
 
 ## Part of the Zion App Network
